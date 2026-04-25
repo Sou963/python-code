@@ -1,0 +1,1 @@
+print("ma rag kora")
